@@ -164,13 +164,23 @@ body {
 }
  
 .footerlogo {
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
     color: #f4f4fd;
 }
 
-.footer-text {
-    color: #f4f4fd;
+.footertext {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    margin-top: 10px;
-}
+    color: #f4f4fd;  
+ }
 
+ .backgroundteam {
+     background: #ffffff;
+    }
