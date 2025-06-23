@@ -67,6 +67,10 @@ body {
     margin: 40px 0 20px;
 }
 
+.nametwo {
+    text-transform: capitalize;
+}
+
 .hero-title {
     font-weight: 700;
     font-size: 56px;
@@ -157,6 +161,10 @@ body {
     background-color: #2e2f42;
     padding: 20px;
     text-align: center;
+}
+ 
+.footerlogo {
+    color: #f4f4fd;
 }
 
 .footer-text {
